@@ -1,4 +1,4 @@
-module github.com/filecoin-project/go-fil-commp-hashhash
+module github.com/storacha/go-fil-commp-hashhash
 
 go 1.24
 

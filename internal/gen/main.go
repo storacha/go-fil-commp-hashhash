@@ -1,7 +1,7 @@
 package main
 
 import (
-	commp "github.com/filecoin-project/go-fil-commp-hashhash/internal"
+	commp "github.com/storacha/go-fil-commp-hashhash/internal"
 	cbg "github.com/whyrusleeping/cbor-gen"
 )
 

@@ -1,10 +1,9 @@
-module github.com/filecoin-project/go-fil-commp-hashhash/cmd/stream-commp
+module github.com/storacha/go-fil-commp-hashhash/cmd/stream-commp
 
 go 1.24
 
 require (
-	github.com/filecoin-project/go-fil-commcid v0.1.0
-	github.com/filecoin-project/go-fil-commp-hashhash v0.2.1-0.20230807110556-86d57f8d8427
+	github.com/storacha/go-fil-commcid v0.1.0
 	github.com/ipfs/go-cid v0.3.2
 	github.com/ipfs/go-ipld-cbor v0.0.6
 	github.com/mattn/go-isatty v0.0.17

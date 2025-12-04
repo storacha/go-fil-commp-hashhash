@@ -16,8 +16,8 @@ import (
 	"math/bits"
 	"sync"
 
-	"github.com/filecoin-project/go-fil-commp-hashhash/internal"
 	sha256simd "github.com/minio/sha256-simd"
+	"github.com/storacha/go-fil-commp-hashhash/internal"
 	"golang.org/x/xerrors"
 )
 
